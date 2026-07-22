@@ -1,6 +1,12 @@
 # 🚀 Enterprise API
 
-[![NestJS](https://img.shields.io/badge/NestJS-11-E0234E?logo=nestjs&logoColor=white)](https://nestjs.com/) [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Firebird](https://img.shields.io/badge/Firebird-Legado-orange?logo=firebird&logoColor=white)](https://firebirdsql.org/) [![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?logo=swagger&logoColor=black)](https://swagger.io/)
+[![NestJS](https://img.shields.io/badge/NestJS-11-E0234E?logo=nestjs&logoColor=white)](https://nestjs.com/) [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Firebird](https://img.shields.io/badge/Firebird-Legado-orange?logo=firebird&logoColor=white)](https://firebirdsql.org/) [![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?logo=swagger&logoColor=black)](https://swagger.io/) ![Node.js](https://img.shields.io/badge/Node.js-18.20.x-339933?logo=node.js&logoColor=white)
+
+---
+
+### 🚨 A versão do Next, React e Node utilizadas são defasadas para que o sistema possa operar em ambientes Windowns Server 2012!
+
+---
 
 ## 💡 Visão geral
 API backend em NestJS para orquestrar automação de processos empresariais, conectar sistemas legados Firebird e disparar comunicações via WhatsApp com monitoramento em tempo real.
