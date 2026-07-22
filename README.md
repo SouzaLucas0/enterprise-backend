@@ -158,7 +158,7 @@ pm run test:cov — cobertura de testes
 ---
 
 ## 📬 Contato
-- LinkedIn: linkedin.com/in/souzalucas0/
-- GitHub: github.com/SouzaLucas0
+- GitHub: [github.com/SouzaLucas0](https://github.com/SouzaLucas0/) 
+- LinkedIn: [linkedin.com/in/souzalucas0/](https://www.linkedin.com/in/souzalucas0/)
 
 > OBS: ainda possui melhorias a serem aplicadas, porém o cliente ao qual o sistema desenvolvido pediu para dar uma pausa no desenvolvimento enquanto o mesmo gera fluxo de caixa com assinaturas da versão vigente.
