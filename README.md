@@ -4,7 +4,7 @@
 
 ---
 
-### 🚨 A versão do Next, React e Node utilizadas são defasadas para que o sistema possa operar em ambientes Windowns Server 2012!
+### 🚨 A versão do Node utilizada é defasada para que o sistema possa operar em ambientes Windowns Server 2012!
 
 ---
 
